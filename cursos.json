@@ -1,0 +1,20 @@
+[
+	{
+		"id": "1",
+		"nombre": "Matematicas",
+		"duracion": "40 h",
+		"valor": "200 mil"
+	},
+	{
+		"id": "2",
+		"nombre": "Scrum",
+		"duracion": "15 h",
+		"valor": "100 mil"
+	},
+	{
+		"id": "3",
+		"nombre": "Programación",
+		"duracion": "100 h",
+		"valor": "500 mil"
+	}
+]
